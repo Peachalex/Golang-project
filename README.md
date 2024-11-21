@@ -1,2 +1,2 @@
 # Golang-snippetbox-project
-Golangproject learning from Let's Go By Alex Edward (2022)
+Golang-project learning from Let's Go By Alex Edwards (2022)
